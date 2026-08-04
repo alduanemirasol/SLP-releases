@@ -1,0 +1,31 @@
+{
+  "version": "1.0.10",
+  "tag": "v1.0.10",
+  "notes": [
+    "Edit and delete expense records with president PIN approval and automatic cash balance adjustments",
+    "Automatic update checks now run after login while manual checks remain available in Settings",
+    "Update downloads now use published release metadata and select a device-compatible APK"
+  ],
+  "assets": [
+    {
+      "name": "empower-arm64-v8a-v1.0.10.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.10/empower-arm64-v8a-v1.0.10.apk",
+      "sizeBytes": 31485605
+    },
+    {
+      "name": "empower-armeabi-v7a-v1.0.10.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.10/empower-armeabi-v7a-v1.0.10.apk",
+      "sizeBytes": 29841417
+    },
+    {
+      "name": "empower-x86_64-v1.0.10.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.10/empower-x86_64-v1.0.10.apk",
+      "sizeBytes": 33069165
+    },
+    {
+      "name": "empower-universal-v1.0.10.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.10/empower-universal-v1.0.10.apk",
+      "sizeBytes": 80648915
+    }
+  ]
+}
