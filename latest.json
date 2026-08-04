@@ -1,30 +1,28 @@
 {
-  "version": "1.0.10",
-  "tag": "v1.0.10",
+  "version": "1.0.11",
+  "tag": "v1.0.11",
   "notes": [
-    "Edit and delete expense records with president PIN approval and automatic cash balance adjustments",
-    "Automatic update checks now run after login while manual checks remain available in Settings",
-    "Update downloads now use published release metadata and select a device-compatible APK"
+    "Test release for validating in-app updates from version 1.0.10"
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.10.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.10/empower-arm64-v8a-v1.0.10.apk",
-      "sizeBytes": 31485605
+      "name": "empower-arm64-v8a-v1.0.11.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.11/empower-arm64-v8a-v1.0.11.apk",
+      "sizeBytes": 31485609
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.10.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.10/empower-armeabi-v7a-v1.0.10.apk",
+      "name": "empower-armeabi-v7a-v1.0.11.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.11/empower-armeabi-v7a-v1.0.11.apk",
       "sizeBytes": 29841417
     },
     {
-      "name": "empower-x86_64-v1.0.10.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.10/empower-x86_64-v1.0.10.apk",
+      "name": "empower-x86_64-v1.0.11.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.11/empower-x86_64-v1.0.11.apk",
       "sizeBytes": 33069165
     },
     {
-      "name": "empower-universal-v1.0.10.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.10/empower-universal-v1.0.10.apk",
+      "name": "empower-universal-v1.0.11.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.11/empower-universal-v1.0.11.apk",
       "sizeBytes": 80648915
     }
   ]
