@@ -1,29 +1,29 @@
 {
-  "version": "1.0.11",
-  "tag": "v1.0.11",
+  "version": "1.0.12",
+  "tag": "v1.0.12",
   "notes": [
-    "Test release for validating in-app updates from version 1.0.10"
+    "Downloaded updates are now preserved while enabling install permission, avoiding duplicate downloads."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.11.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.11/empower-arm64-v8a-v1.0.11.apk",
-      "sizeBytes": 31485609
+      "name": "empower-arm64-v8a-v1.0.12.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.12/empower-arm64-v8a-v1.0.12.apk",
+      "sizeBytes": 31485605
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.11.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.11/empower-armeabi-v7a-v1.0.11.apk",
-      "sizeBytes": 29841417
+      "name": "empower-armeabi-v7a-v1.0.12.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.12/empower-armeabi-v7a-v1.0.12.apk",
+      "sizeBytes": 29857801
     },
     {
-      "name": "empower-x86_64-v1.0.11.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.11/empower-x86_64-v1.0.11.apk",
+      "name": "empower-x86_64-v1.0.12.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.12/empower-x86_64-v1.0.12.apk",
       "sizeBytes": 33069165
     },
     {
-      "name": "empower-universal-v1.0.11.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.11/empower-universal-v1.0.11.apk",
-      "sizeBytes": 80648915
+      "name": "empower-universal-v1.0.12.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.12/empower-universal-v1.0.12.apk",
+      "sizeBytes": 80665299
     }
   ]
 }
