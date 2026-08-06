@@ -1,36 +1,29 @@
 {
-  "version": "1.0.15",
-  "tag": "v1.0.15",
+  "version": "1.0.16",
+  "tag": "v1.0.16",
   "notes": [
-    "President role: association founder now auto-identified and can approve sensitive actions like stock adjustments and sales deletion.",
-    "Customer registration simplified — only nickname and contact number required (data privacy improvement).",
-    "Delete and correct sales entries with president approval; inventory and cash automatically restored.",
-    "Capital history: view and edit past capital contributions.",
-    "Utang corrections now sync inventory, sales totals, and credit limits across all affected records.",
-    "Per-piece sales now correctly split pricing across FIFO batch boundaries.",
-    "\"Unit Variants\" renamed to \"Bundle Pricing\" for clarity.",
-    "Inventory lots now display oldest batch first with batch status labels.",
-    "Various UI improvements and bug fixes."
+    "Fixed checkout failures after upgrading from version 1.0.15 by repairing customer database references.",
+    "Existing customer, sales, payment, and utang data is preserved automatically during the repair."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.15.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.15/empower-arm64-v8a-v1.0.15.apk",
+      "name": "empower-arm64-v8a-v1.0.16.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.16/empower-arm64-v8a-v1.0.16.apk",
       "sizeBytes": 31354285
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.15.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.15/empower-armeabi-v7a-v1.0.15.apk",
+      "name": "empower-armeabi-v7a-v1.0.16.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.16/empower-armeabi-v7a-v1.0.16.apk",
       "sizeBytes": 29644557
     },
     {
-      "name": "empower-x86_64-v1.0.15.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.15/empower-x86_64-v1.0.15.apk",
+      "name": "empower-x86_64-v1.0.16.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.16/empower-x86_64-v1.0.16.apk",
       "sizeBytes": 32937841
     },
     {
-      "name": "empower-universal-v1.0.15.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.15/empower-universal-v1.0.15.apk",
+      "name": "empower-universal-v1.0.16.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.16/empower-universal-v1.0.16.apk",
       "sizeBytes": 80189915
     }
   ]
