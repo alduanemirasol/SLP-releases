@@ -1,32 +1,36 @@
 {
-  "version": "1.0.17",
-  "tag": "v1.0.17",
+  "version": "1.0.18",
+  "tag": "v1.0.18",
   "notes": [
-    "Added What's New screen showing version info and release notes.",
-    "Improved expense and sales history icons for consistency.",
-    "Fixed app version display using PackageInfo.",
-    "Updated sales history image."
+    "Added PDO role with 3-step registration flow: PDO, President, Member.",
+    "Manage Members and Google Drive Backup are now restricted to PDO users only.",
+    "User role is now displayed on the profile screen.",
+    "Backup screen now shows a warning when Google sign-in expires.",
+    "President and Members see a backup status warning on the Settings screen.",
+    "PDO can access Google Drive Backup directly without PIN verification.",
+    "Safe role replacement: changing a member to President now prompts to replace the current President and uses a transaction to prevent database errors.",
+    "PDO can now restore from Google Drive or set up backup during initial registration."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.17.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.17/empower-arm64-v8a-v1.0.17.apk",
-      "sizeBytes": 29721552
+      "name": "empower-arm64-v8a-v1.0.18.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.18/empower-arm64-v8a-v1.0.18.apk",
+      "sizeBytes": 29787568
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.17.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.17/empower-armeabi-v7a-v1.0.17.apk",
-      "sizeBytes": 27969766
+      "name": "empower-armeabi-v7a-v1.0.18.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.18/empower-armeabi-v7a-v1.0.18.apk",
+      "sizeBytes": 28019398
     },
     {
-      "name": "empower-x86_64-v1.0.17.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.17/empower-x86_64-v1.0.17.apk",
-      "sizeBytes": 31261299
+      "name": "empower-x86_64-v1.0.18.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.18/empower-x86_64-v1.0.18.apk",
+      "sizeBytes": 31327315
     },
     {
-      "name": "empower-universal-v1.0.17.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.17/empower-universal-v1.0.17.apk",
-      "sizeBytes": 75154501
+      "name": "empower-universal-v1.0.18.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.18/empower-universal-v1.0.18.apk",
+      "sizeBytes": 75335205
     }
   ]
 }
