@@ -1,32 +1,31 @@
 {
-  "version": "1.0.20",
-  "tag": "v1.0.20",
+  "version": "1.0.21",
+  "tag": "v1.0.21",
   "notes": [
-    "Reports are now available to PDO, President, and Member roles and open a menu with three actions: Send by Email, Save a copy, or Open PDF.",
-    "Income Statement and Balance Sheet reports can now be sent as PDF attachments through your phone's email app.",
-    "Each generated report is automatically saved as a local PDF copy to a folder you choose.",
-    "New Email Settings screen lets you configure the recipient email, sender name, default subject and message, CC/BCC, and the folder where reports are saved."
+    "Fixed: Saving a report copy on Android now uses the system save dialog, so PDFs are written correctly instead of failing with 'Could not generate the report.'",
+    "Tapping Cancel on the save dialog no longer shows a false error message, and real save failures now show the actual reason.",
+    "Desktop users keep the existing folder-picker flow for saving reports."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.20.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.20/empower-arm64-v8a-v1.0.20.apk",
+      "name": "empower-arm64-v8a-v1.0.21.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.21/empower-arm64-v8a-v1.0.21.apk",
       "sizeBytes": 29790360
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.20.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.20/empower-armeabi-v7a-v1.0.20.apk",
+      "name": "empower-armeabi-v7a-v1.0.21.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.21/empower-armeabi-v7a-v1.0.21.apk",
       "sizeBytes": 28071338
     },
     {
-      "name": "empower-x86_64-v1.0.20.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.20/empower-x86_64-v1.0.20.apk",
-      "sizeBytes": 31395639
+      "name": "empower-x86_64-v1.0.21.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.21/empower-x86_64-v1.0.21.apk",
+      "sizeBytes": 31395643
     },
     {
-      "name": "empower-universal-v1.0.20.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.20/empower-universal-v1.0.20.apk",
-      "sizeBytes": 75452681
+      "name": "empower-universal-v1.0.21.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.21/empower-universal-v1.0.21.apk",
+      "sizeBytes": 75452685
     }
   ]
 }
