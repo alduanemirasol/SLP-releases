@@ -1,32 +1,30 @@
 {
-  "version": "1.0.23",
-  "tag": "v1.0.23",
+  "version": "1.0.24",
+  "tag": "v1.0.24",
   "notes": [
-    "Setting up the app is now faster and simpler, with fewer steps for the PDO.",
-    "You can add members one after another without going back to the main menu.",
-    "If a member forgets their PIN, the PDO can reset it for them.",
-    "The What's New page now works even when there's no internet connection."
+    "Stocking in products is now easier with a step-by-step form.",
+    "The history buttons on the Record Sale and Gasto pages now match the rest of the app."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.23.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.23/empower-arm64-v8a-v1.0.23.apk",
-      "sizeBytes": 29967165
+      "name": "empower-arm64-v8a-v1.0.24.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.24/empower-arm64-v8a-v1.0.24.apk",
+      "sizeBytes": 29967085
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.23.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.23/empower-armeabi-v7a-v1.0.23.apk",
-      "sizeBytes": 28260519
+      "name": "empower-armeabi-v7a-v1.0.24.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.24/empower-armeabi-v7a-v1.0.24.apk",
+      "sizeBytes": 28293207
     },
     {
-      "name": "empower-x86_64-v1.0.23.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.23/empower-x86_64-v1.0.23.apk",
-      "sizeBytes": 31598348
+      "name": "empower-x86_64-v1.0.24.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.24/empower-x86_64-v1.0.24.apk",
+      "sizeBytes": 31598268
     },
     {
-      "name": "empower-universal-v1.0.23.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.23/empower-universal-v1.0.23.apk",
-      "sizeBytes": 76015842
+      "name": "empower-universal-v1.0.24.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.24/empower-universal-v1.0.24.apk",
+      "sizeBytes": 76048526
     }
   ]
 }
