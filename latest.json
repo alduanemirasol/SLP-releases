@@ -1,30 +1,30 @@
 {
-  "version": "1.0.24",
-  "tag": "v1.0.24",
+  "version": "1.0.25",
+  "tag": "v1.0.25",
   "notes": [
-    "Stocking in products is now easier with a step-by-step form.",
-    "The history buttons on the Record Sale and Gasto pages now match the rest of the app."
+    "Sending reports by email now works on Android 11 and newer.",
+    "After saving a stock-in, the form resets to the first step, ready for the next entry."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.24.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.24/empower-arm64-v8a-v1.0.24.apk",
-      "sizeBytes": 29967085
+      "name": "empower-arm64-v8a-v1.0.25.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.25/empower-arm64-v8a-v1.0.25.apk",
+      "sizeBytes": 29967173
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.24.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.24/empower-armeabi-v7a-v1.0.24.apk",
-      "sizeBytes": 28293207
+      "name": "empower-armeabi-v7a-v1.0.25.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.25/empower-armeabi-v7a-v1.0.25.apk",
+      "sizeBytes": 28293295
     },
     {
-      "name": "empower-x86_64-v1.0.24.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.24/empower-x86_64-v1.0.24.apk",
-      "sizeBytes": 31598268
+      "name": "empower-x86_64-v1.0.25.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.25/empower-x86_64-v1.0.25.apk",
+      "sizeBytes": 31598356
     },
     {
-      "name": "empower-universal-v1.0.24.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.24/empower-universal-v1.0.24.apk",
-      "sizeBytes": 76048526
+      "name": "empower-universal-v1.0.25.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.25/empower-universal-v1.0.25.apk",
+      "sizeBytes": 76048618
     }
   ]
 }
