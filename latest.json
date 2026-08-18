@@ -1,30 +1,30 @@
 {
-  "version": "1.0.25",
-  "tag": "v1.0.25",
+  "version": "1.0.26",
+  "tag": "v1.0.26",
   "notes": [
-    "Sending reports by email now works on Android 11 and newer.",
-    "After saving a stock-in, the form resets to the first step, ready for the next entry."
+    "The app now requires a license key to activate.",
+    "The PDO can generate a license key for the association."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.25.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.25/empower-arm64-v8a-v1.0.25.apk",
-      "sizeBytes": 29967173
+      "name": "empower-arm64-v8a-v1.0.26.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.26/empower-arm64-v8a-v1.0.26.apk",
+      "sizeBytes": 38764119
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.25.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.25/empower-armeabi-v7a-v1.0.25.apk",
-      "sizeBytes": 28293295
+      "name": "empower-armeabi-v7a-v1.0.26.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.26/empower-armeabi-v7a-v1.0.26.apk",
+      "sizeBytes": 35338441
     },
     {
-      "name": "empower-x86_64-v1.0.25.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.25/empower-x86_64-v1.0.25.apk",
-      "sizeBytes": 31598356
+      "name": "empower-x86_64-v1.0.26.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.26/empower-x86_64-v1.0.26.apk",
+      "sizeBytes": 41303634
     },
     {
-      "name": "empower-universal-v1.0.25.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.25/empower-universal-v1.0.25.apk",
-      "sizeBytes": 76048618
+      "name": "empower-universal-v1.0.26.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.26/empower-universal-v1.0.26.apk",
+      "sizeBytes": 97977016
     }
   ]
 }
