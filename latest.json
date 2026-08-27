@@ -1,31 +1,32 @@
 {
-  "version": "1.0.27",
-  "tag": "v1.0.27",
+  "version": "1.0.28",
+  "tag": "v1.0.28",
   "notes": [
-    "New License Info screen showing remaining activation days and PDO contact details.",
-    "Fixed a crash when saving stock in after editing a product name.",
+    "Fixed stock-in fields clearing when navigating back between steps.",
+    "Merged Capital Outlay through Credit with cash, credit, and installment support.",
+    "Guarded payable database migration for older installs.",
     "General stability improvements."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.27.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.27/empower-arm64-v8a-v1.0.27.apk",
-      "sizeBytes": 38764395
+      "name": "empower-arm64-v8a-v1.0.28.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.28/empower-arm64-v8a-v1.0.28.apk",
+      "sizeBytes": 38895983
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.27.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.27/empower-armeabi-v7a-v1.0.27.apk",
-      "sizeBytes": 35355101
+      "name": "empower-armeabi-v7a-v1.0.28.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.28/empower-armeabi-v7a-v1.0.28.apk",
+      "sizeBytes": 35552225
     },
     {
-      "name": "empower-x86_64-v1.0.27.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.27/empower-x86_64-v1.0.27.apk",
-      "sizeBytes": 41369446
+      "name": "empower-x86_64-v1.0.28.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.28/empower-x86_64-v1.0.28.apk",
+      "sizeBytes": 41501034
     },
     {
-      "name": "empower-universal-v1.0.27.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.27/empower-universal-v1.0.27.apk",
-      "sizeBytes": 98059212
+      "name": "empower-universal-v1.0.28.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.28/empower-universal-v1.0.28.apk",
+      "sizeBytes": 98518480
     }
   ]
 }
