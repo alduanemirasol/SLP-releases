@@ -1,32 +1,31 @@
 {
-  "version": "1.0.28",
-  "tag": "v1.0.28",
+  "version": "1.0.29",
+  "tag": "v1.0.29",
   "notes": [
-    "Fixed stock-in fields clearing when navigating back between steps.",
-    "Merged Capital Outlay through Credit with cash, credit, and installment support.",
-    "Guarded payable database migration for older installs.",
+    "Added low stock threshold settings with quick-select chips",
+    "Removed email CC/BCC fields from Email Settings",
     "General stability improvements."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.28.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.28/empower-arm64-v8a-v1.0.28.apk",
-      "sizeBytes": 38895983
+      "name": "empower-arm64-v8a-v1.0.29.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.29/empower-arm64-v8a-v1.0.29.apk",
+      "sizeBytes": 38895883
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.28.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.28/empower-armeabi-v7a-v1.0.28.apk",
-      "sizeBytes": 35552225
+      "name": "empower-armeabi-v7a-v1.0.29.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.29/empower-armeabi-v7a-v1.0.29.apk",
+      "sizeBytes": 35584893
     },
     {
-      "name": "empower-x86_64-v1.0.28.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.28/empower-x86_64-v1.0.28.apk",
-      "sizeBytes": 41501034
+      "name": "empower-x86_64-v1.0.29.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.29/empower-x86_64-v1.0.29.apk",
+      "sizeBytes": 41566470
     },
     {
-      "name": "empower-universal-v1.0.28.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.28/empower-universal-v1.0.28.apk",
-      "sizeBytes": 98518480
+      "name": "empower-universal-v1.0.29.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.29/empower-universal-v1.0.29.apk",
+      "sizeBytes": 98616684
     }
   ]
 }
