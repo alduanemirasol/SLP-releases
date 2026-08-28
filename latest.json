@@ -1,31 +1,32 @@
 {
-  "version": "1.0.29",
-  "tag": "v1.0.29",
+  "version": "1.0.30",
+  "tag": "v1.0.30",
   "notes": [
-    "Added low stock threshold settings with quick-select chips",
-    "Removed email CC/BCC fields from Email Settings",
+    "Added Online Help tile linking to empower-faqs",
+    "Added delete option in Record Sales",
+    "Improved CSV and Google Drive backup test coverage",
     "General stability improvements."
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.29.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.29/empower-arm64-v8a-v1.0.29.apk",
-      "sizeBytes": 38895883
+      "name": "empower-arm64-v8a-v1.0.30.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.30/empower-arm64-v8a-v1.0.30.apk",
+      "sizeBytes": 39048790
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.29.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.29/empower-armeabi-v7a-v1.0.29.apk",
-      "sizeBytes": 35584893
+      "name": "empower-armeabi-v7a-v1.0.30.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.30/empower-armeabi-v7a-v1.0.30.apk",
+      "sizeBytes": 35606728
     },
     {
-      "name": "empower-x86_64-v1.0.29.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.29/empower-x86_64-v1.0.29.apk",
-      "sizeBytes": 41566470
+      "name": "empower-x86_64-v1.0.30.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.30/empower-x86_64-v1.0.30.apk",
+      "sizeBytes": 41588305
     },
     {
-      "name": "empower-universal-v1.0.29.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.29/empower-universal-v1.0.29.apk",
-      "sizeBytes": 98616684
+      "name": "empower-universal-v1.0.30.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.30/empower-universal-v1.0.30.apk",
+      "sizeBytes": 98769587
     }
   ]
 }
