@@ -1,32 +1,32 @@
 {
-  "version": "1.0.30",
-  "tag": "v1.0.30",
+  "version": "1.0.31",
+  "tag": "v1.0.31",
   "notes": [
-    "Added Online Help tile linking to empower-faqs",
-    "Added delete option in Record Sales",
-    "Improved CSV and Google Drive backup test coverage",
-    "General stability improvements."
+    "Settings tiles unified to standard blue style",
+    "Email reports auto-send via SMTP dswdslpempower@gmail.com without Gmail app",
+    "Simplified Email Settings to recipient, sender, app password, subject and message",
+    "Mailer + secure storage integration for direct SMTP delivery"
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.30.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.30/empower-arm64-v8a-v1.0.30.apk",
-      "sizeBytes": 39048790
+      "name": "empower-arm64-v8a-v1.0.31.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.31/empower-arm64-v8a-v1.0.31.apk",
+      "sizeBytes": 39179714
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.30.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.30/empower-armeabi-v7a-v1.0.30.apk",
-      "sizeBytes": 35606728
+      "name": "empower-armeabi-v7a-v1.0.31.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.31/empower-armeabi-v7a-v1.0.31.apk",
+      "sizeBytes": 35819572
     },
     {
-      "name": "empower-x86_64-v1.0.30.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.30/empower-x86_64-v1.0.30.apk",
-      "sizeBytes": 41588305
+      "name": "empower-x86_64-v1.0.31.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.31/empower-x86_64-v1.0.31.apk",
+      "sizeBytes": 41784765
     },
     {
-      "name": "empower-universal-v1.0.30.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.30/empower-universal-v1.0.30.apk",
-      "sizeBytes": 98769587
+      "name": "empower-universal-v1.0.31.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.31/empower-universal-v1.0.31.apk",
+      "sizeBytes": 99310111
     }
   ]
 }
