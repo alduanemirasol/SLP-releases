@@ -1,31 +1,32 @@
 {
-  "version": "1.0.38",
-  "tag": "v1.0.38",
+  "version": "1.0.39",
+  "tag": "v1.0.39",
   "notes": [
+    "Resend API key updated to new default (automatic, no user configuration)",
     "Lifetime license support — trial_days 0 now means Habang-buhi (never expires)",
     "License QR fix — both key_id 0 and 1 accepted, fixes 'Wala mailhi nga key' error",
     "Locked screen polished — E.M.P.O.W.E.R chip, glow badge, and gradient trial button"
   ],
   "assets": [
     {
-      "name": "empower-arm64-v8a-v1.0.38.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.38/empower-arm64-v8a-v1.0.38.apk",
-      "sizeBytes": 39048854
+      "name": "empower-arm64-v8a-v1.0.39.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.39/empower-arm64-v8a-v1.0.39.apk",
+      "sizeBytes": 39048902
     },
     {
-      "name": "empower-armeabi-v7a-v1.0.38.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.38/empower-armeabi-v7a-v1.0.38.apk",
-      "sizeBytes": 35672328
+      "name": "empower-armeabi-v7a-v1.0.39.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.39/empower-armeabi-v7a-v1.0.39.apk",
+      "sizeBytes": 35672376
     },
     {
-      "name": "empower-x86_64-v1.0.38.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.38/empower-x86_64-v1.0.38.apk",
-      "sizeBytes": 41653905
+      "name": "empower-x86_64-v1.0.39.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.39/empower-x86_64-v1.0.39.apk",
+      "sizeBytes": 41653953
     },
     {
-      "name": "empower-universal-v1.0.38.apk",
-      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.38/empower-universal-v1.0.38.apk",
-      "sizeBytes": 98900727
+      "name": "empower-universal-v1.0.39.apk",
+      "downloadUrl": "https://github.com/alduanemirasol/SLP-releases/releases/download/v1.0.39/empower-universal-v1.0.39.apk",
+      "sizeBytes": 98900775
     }
   ]
 }
